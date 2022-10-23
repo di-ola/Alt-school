@@ -1,10 +1,11 @@
 ---
 name: https:bit.ly/3yHtomf
 about: alt school africa
-title: altschool
+title: https:bit.ly/3yHtomf
 labels: ''
 assignees: ''
 
 ---
 
-altschool africa
+alt school 
+practicing codes
