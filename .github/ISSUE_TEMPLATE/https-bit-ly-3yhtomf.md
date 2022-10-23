@@ -7,5 +7,4 @@ assignees: ''
 
 ---
 
-alt school 
-practicing codes
+altschool africa
